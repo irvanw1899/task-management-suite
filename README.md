@@ -1,6 +1,10 @@
 # Task Management Suite
 This is a simple task management application built with Laravel. The application allows users to manage their tasks using a web interface.
 
+## Screenshots
+Here are some screenshots of the application:
+`public/images/login.png`
+
 ## Requirements
 - PHP >= 8.2
 - Composer
@@ -22,7 +26,7 @@ composer install
 ### 3. Configure Environment Variables
 
 ```bash
-APP_NAME=TMS-Suite
+APP_NAME=TMS
 APP_ENV=local
 APP_KEY=base64:...
 APP_DEBUG=true
@@ -46,6 +50,8 @@ php artisan migrate
 php artisan serve
 &
 npm run dev
+
+The application will be available at http://localhost:8000.
 
 ### 6. Testing
 
