@@ -3,7 +3,7 @@ This is a simple task management application built with Laravel. The application
 
 ## Screenshots
 Here are some screenshots of the application:
-`public/images/login.png`
+`public/images/login page.png`,`public/images/task management.png`
 
 ## Requirements
 - PHP >= 8.2
