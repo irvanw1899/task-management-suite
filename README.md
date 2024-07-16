@@ -14,6 +14,10 @@ Here are some screenshots of the application:
 ## Setup Instructions
 ### 1. Clone the Repository
 
+git clone https://github.com/irvanw1899/task-management-suite.git
+cd task-management-suite
+
+### 2. Install Dependency
 ```bash
 git clone https://github.com/irvanw1899/task-management-suite.git
 cd task-management-suite
